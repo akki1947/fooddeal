@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import { ActivityIndicator, Linking, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 
-const BACKEND_URL = 'http://192.20.10.1:8000';
+const BACKEND_URL = 'https://fooddeal-backend.onrender.com';
 
 export default function HomeScreen() {
   const [searchText, setSearchText] = useState('');
