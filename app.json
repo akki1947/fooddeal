@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "FoodDeal",
+    "slug": "fooddeal",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    }
+  }
+}
